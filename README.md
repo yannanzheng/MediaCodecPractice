@@ -1,0 +1,3 @@
+# MediaCodecPractice
+Practice mediacodec
+Google的demo封装的硬解码。采用的是较老的sdk
